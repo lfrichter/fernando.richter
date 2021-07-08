@@ -197,5 +197,6 @@ It is an application to search for a safe meal across the UK, using information 
 - a data import system
 - a search page
 - an API to query, create, modify and delete this data
+
 https://github.com/lfrichter/safelunch
 
