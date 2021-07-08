@@ -1,7 +1,7 @@
 # Luis Fernando Richter - Resume 👨‍💻
 @(Richter Tecnologia)[particular]
 
-<img src="https://i.imgur.com/gtYG4fg.png" height="200" width="200" align="center" />
+<img src="https://i.imgur.com/MwGkOWy.png" height="200" width="200" align="center" style="border-radius: 50%;" />
 
 # Summary
 Developer with expertise in analysis, integrations, project management, agile methods, and DevOps.
