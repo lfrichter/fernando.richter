@@ -2,30 +2,8 @@
 @(Richter Tecnologia)[particular]
 
 
-<style>
-.circular_image {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  overflow: hidden;
-  background-color: blue;
-  /* commented for demo
-  float: left;
-  margin-left: 125px;
-  margin-top: 20px;
-  */
-  
-  /*for demo*/
-  display:inline-block;
-  vertical-align:middle;
-}
-.circular_image img{
-  width:100%;
-}
-</style>
-
-<div class="circular_image">
-<img src="https://i.imgur.com/MwGkOWy.png" height="200" width="200" align="right" />
+<div style="margin: 0 auto;">
+<img src="https://i.imgur.com/ro5JmNg.png" height="200" width="200" align="right" />
 </div>
 
 # Summary
