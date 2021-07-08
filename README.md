@@ -42,7 +42,7 @@ Developing several API based on charts from a PowerBI Project using filters rela
 Working with a team of two frontend developers (React) plus QA to delivering the full functional applications.
 
 **Project URL**
-- https://toot.co/
+- [toot.co](https://toot.co/)
 
 **Videos**
 - [Toot - Power BI](https://youtu.be/seU3VySGN9M) - [Numbers](https://youtu.be/WyQSWq5pcyE)
@@ -62,7 +62,7 @@ May 2019 – May 2019
 App for fans of the main football teams of Premier and Championship.
 
 Project URL
-- http://fanoty.com/
+- [fanoty.com](http://fanoty.com/)
 
 It was an old Application made for iOS, using an API developed in Laravel 5.0, I refactored all data import from OPTA API, several bugs were fixed in the API, also implemented CI/CD and updated application for Laravel 5.1
 
@@ -72,7 +72,7 @@ May 2019 – May 2019
 The platform to lovers of wrestling
 
 Project URL 
-- https://grappl.co/
+- [grappl.co](https://grappl.co/)
 
 I worked in a recreation of the Home API, implemented new queries and new sessions. Added to the CMS an ad manager a page with advanced search and match filters.
 
@@ -91,13 +91,13 @@ Lisboa e Região, Portugal - since 03/2018
 #### MyLabel 👩💆 
 Aug 2018 – Oct 2018
 - Corporate website of the cosmetics company, with friendly management in Wordpress, using a complete theme and plugin customization. 
-- Available at //mylabel.pt
+- Available at [mylabel.pt](https://www.mylabel.pt/)
 - Developed  by myself at company Alfasoft.pt
 
 #### Perguntas da especialidade 👨‍🎓👨‍⚕️
 Jun 2018 – Jul 2018
 - Preparation platform to examinations for medical specialties with payment through EuPago.pt.
-- Available at //perguntasdaespecialidade.pt
+- Available at [perguntasdaespecialidade.pt](https://perguntasdaespecialidade.pt/)
 - Developed  by myself at company Alfasoft.pt
 
 #### Sisporta 🏬
@@ -190,7 +190,7 @@ Sep 2017 – Jan 2018
 ### Open source projects
 #### Omnivore Facade 🍹
 Facade to access the API of an E-commerce platform called Omnivore.  
-https://github.com/lfrichter/omnivore 
+[Source code](https://github.com/lfrichter/omnivore)
 
 #### Safelunch 🍔
 It is an application to search for a safe meal across the UK, using information based on the FHRS platform (https://ratings.food.gov.uk/) offering follow features:
@@ -198,5 +198,5 @@ It is an application to search for a safe meal across the UK, using information 
 - a search page
 - an API to query, create, modify and delete this data
 
-https://github.com/lfrichter/safelunch
+[Source Code](https://github.com/lfrichter/safelunch)
 
