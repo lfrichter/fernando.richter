@@ -1,7 +1,30 @@
 # Luis Fernando Richter - Resume 👨‍💻
 @(Richter Tecnologia)[particular]
 
-<div style="border-top-left-radius: 50% 50%;  border-top-right-radius: 50% 50%;  border-bottom-right-radius: 50% 50%;  border-bottom-left-radius: 50% 50%;" >
+
+<style>
+.circular_image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: blue;
+  /* commented for demo
+  float: left;
+  margin-left: 125px;
+  margin-top: 20px;
+  */
+  
+  /*for demo*/
+  display:inline-block;
+  vertical-align:middle;
+}
+.circular_image img{
+  width:100%;
+}
+</style>
+
+<div class="circular_image">
 <img src="https://i.imgur.com/MwGkOWy.png" height="200" width="200" align="right" />
 </div>
 
