@@ -16,8 +16,41 @@ I feel confident to plan, estimate, and develop projects, I consider myself a go
 
 ---
 # Experience
+
+
+
+## Full-Stack Developer at Full Comms
+[![FullComms|right](https://i.imgur.com/KMoH8Zf.png)](https://fullcomms.co.uk/)
+Apr 2021 - currently
+
+### Description
+Web Applications, API, integrations.
+Analysis, design refactoring and performance improvement of projects,
+Updating the platform and versions of PHP and Laravel applications,
+Test case application and automated tests with Dusk (using Selenium and CrossBrowserTesting)
+
+
+#### Shosales 🏠
+[![Southern|right](https://i.imgur.com/Rtm6ETy.png)](https://shosales.co.uk/)
+
+**Project URL**
+https://shosales.co.uk/
+
+- Implement automated tests, parallel tests using multiple browser platforms as well as mobile devices, CrossBrowserTesting SaaS integration.
+- The refactoring of queries for performance was done on a few pages, and the best one was execution time of properties page was increased 10 times.
+
+| Execution time, amount of queries statements | 
+| :------------------------------------------: | 
+| ![Before](https://i.imgur.com/E5qvKDq.png)  |   
+| ![After](https://i.imgur.com/cGmz1Aq.png)   |   
+
+
+
+
 ## Application and API developer 👩‍💻 at Apposing
+[![Apposing|right](https://i.imgur.com/1hRSOrO.png)](https://apposing.co.uk/)
 Liverpool, UK - since 03/2019
+
 
 #### Description
 Acting as full-stack responsible for some frontend applications CMS, many backends of applications and API to be consumed by mobile (iOS and Android) and React apps.
@@ -26,7 +59,9 @@ Acting as full-stack responsible for some frontend applications CMS, many backen
 
 
 ### Projects
+
 #### Huktup 💳 - Service Provider and Admin Web Interface
+![Huktup|right|](https://i.imgur.com/YonAEuC.png)
 Ago 2020 - Apr 2021
 
 A platform for multiple service providers to sell products or services with offers through a booking system.
@@ -36,6 +71,8 @@ It has integrated authentication to Firebase, an onboard process for new users.
 
 
 #### Toot 📲🚘 Market Intelligence Platform
+[![Toot|right](https://i.imgur.com/CYoh05w.png)](https://toot.co/)
+
 Mar 2020 - Mar 2021
 
 Developing several API based on charts from a PowerBI Project using filters related, including tests and all documentation.
@@ -58,6 +95,8 @@ May 2019 – May 2019
 - So when started all project, I decided to rebuild all backend core responsible for all calculations from the journey. It was necessary to create one job to each activity of business like request google Api, Overpass Api, and calculations of scores to speeding, acceleration, braking, harsh cornering, distraction. Besides that, every business task like Api and jobs won a test unit and integration, that run on all deploys over customized pipelines.
 
 #### Fanoty ⚽
+[![Fanoty|right](https://i.imgur.com/bhLU54e.png)](http://fanoty.com/)
+
 May 2019 – May 2019
 App for fans of the main football teams of Premier and Championship.
 
@@ -68,6 +107,8 @@ It was an old Application made for iOS, using an API developed in Laravel 5.0, I
 
 
 #### Grappl 👺
+[![Grappl|right](https://i.imgur.com/OL1WxiL.png)](https://grappl.co/)
+
 May 2019 – May 2019
 The platform to lovers of wrestling
 
@@ -80,6 +121,8 @@ I worked in a recreation of the Home API, implemented new queries and new sessio
 
 ---
 ## Software Development Engineer 👩‍💻 at Alfasoft.pt
+[![Alfasoft|right](https://i.imgur.com/x5X41QP.png)](https://www.alfasoft.pt/)
+
 Lisboa e Região, Portugal - since 03/2018
 
 ### Description
@@ -89,32 +132,40 @@ Lisboa e Região, Portugal - since 03/2018
 
 ### Projects
 #### MyLabel 👩💆 
+[![MyLabel|right](https://i.imgur.com/ncfUx3c.png)](https://www.mylabel.pt/)
+
 Aug 2018 – Oct 2018
 - Corporate website of the cosmetics company, with friendly management in Wordpress, using a complete theme and plugin customization. 
-- Available at [mylabel.pt](https://www.mylabel.pt/)
-- Developed  by myself at company Alfasoft.pt
+- Available at [mylabel.pt](https://www.mylabel.pt/) developed  by myself at company Alfasoft.pt
 
 #### Perguntas da especialidade 👨‍🎓👨‍⚕️
+[![Perguntas da especialidade|right](https://i.imgur.com/i9Tp3hv.png)](https://perguntasdaespecialidade.pt/)
+
 Jun 2018 – Jul 2018
 - Preparation platform to examinations for medical specialties with payment through EuPago.pt.
-- Available at [perguntasdaespecialidade.pt](https://perguntasdaespecialidade.pt/)
-- Developed  by myself at company Alfasoft.pt
+- Available at [perguntasdaespecialidade.pt](https://perguntasdaespecialidade.pt/) developed  by myself at company Alfasoft.pt
 
 #### Sisporta 🏬
+[![Sisporta|right](https://i.imgur.com/LveJ57f.png)](https://www.sisporta.com/)
+
 Mar 2018 – May 2018
 - System to calculate and generate budget of gates with an intelligent layer of data update coming from the legacy database
 - Was built a legacy system integration using python that retrieves data from SQLServer and sends to endpoint API
 - The application developed in Laravel receive data from endpoint Api and triggers each record to a job monitored by Horizon, thus distributing server processing by avoiding an information bottleneck
 - All relevant unit tests and also main integration tests were created, besides that, continuous integration using Bitbucket Pipelines
-- Developed by myself at company Alfasoft.pt
+- Available at [Sisporta](https://www.sisporta.com/) developed by myself at company Alfasoft.pt
 
 ---
 ## Senior Software Developer 👩‍💻 at Plugae
+[![Plugae|right](https://i.imgur.com/V1DSHwZ.png)](https://plugae.com.br/)
+
 Barueri, São Paulo, Brazil -  11/2017 - 02/2018
 I made a challenging integration of multiple marketplaces for a single application and after that an integration with ERP Bling using webhooks and queue jobs for all activities
 
 ### Projects
 #### Spider  🛒
+![Spider|right](https://i.imgur.com/rJ8gWvL.png)
+
 Nov 2017 – Feb 2018
 - Large integration of orders from marketplaces hubs Skyhub, Pluggto, B2W to a single platform called Spider with database Mongo.db, also integration between Spider to ERP Bling using webhooks, all integrations needed use job queue, so as not to overload server processing
 - Was used Laravel, MongoDB, Redis, AmazonS3, Gitflow, OpenRefine, Atlassian Jira 
@@ -122,6 +173,8 @@ Nov 2017 – Feb 2018
 
 ---
 ## Software Developer 👩‍💻 at Pilha Digital
+[![Pilha Digital|right](https://i.imgur.com/Tlq2rgi.png)](https://www.facebook.com/pilhadigital/)
+
 Sorocaba, São Paulo, Brazil - 02/2017 - 09/2017
 I had created a platform to register websites and send a push notification, structured modularly, with a payment system. 
 
@@ -144,12 +197,16 @@ Challenge to rebuild an immense PHP OOP application with no framework for managi
 
 ---
 ## Coach 👨‍🏫 at Promoedu
+![Promoedu|right](https://i.imgur.com/UlWdkm3.png)
 Sorocaba, São Paulo, Brazil - 09/2015 - 03/2016
 I taught small leadership training for groups
 > Develop competencies to gain leadership and respect, build trust, empathy and rapport, motivate teams, recognize and use strengths, delegate effectively, work on improvement points, and evaluate results. This process adds value by bringing tools and methods that can be used in many different areas of life.
 
 ---
 ## Web designer senior 👨‍🎨 at EDITORA FTD S/A
+[![FTD|right](https://i.imgur.com/IOpSTyj.png)](https://ftd.com.br/)
+
+
 São Paulo, Brazil
 Participation of several projects and development of various web applications
 - At this time I used Coldfusion (Servlet Java) CBD, ASP, SQLServer, Atlassian Jira
@@ -171,6 +228,8 @@ Internal system built to be used in the 24 branches of the company spread throug
 ### Standalone projects
 
 #### Startup Center 👨🏽‍💼
+[![Startup Center|right](https://i.imgur.com/x9eiDdv.png)](https://www.facebook.com/startupcenter.com.br)
+
 Feb 2017 – Sep 2017
 - Platform to help Startups grow by offering a range of useful tools
 - Solution for Startups with registration, search, dashboard, management and utilities
@@ -184,7 +243,6 @@ Feb 2017 – Sep 2017
 Sep 2017 – Jan 2018
 - Multi-tenant system for companies to manage the sharing of purchases of their clients that win awards in the indication with multilevel distribution.
 - Was developed by myself using Laravel with the multi-tenant approach.
-- It was avaiable at //indicos.com.br
 
 ---
 ### Open source projects
@@ -199,4 +257,3 @@ It is an application to search for a safe meal across the UK, using information 
 - an API to query, create, modify and delete this data
 
 [Source Code](https://github.com/lfrichter/safelunch)
-
