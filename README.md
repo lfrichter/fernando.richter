@@ -62,7 +62,7 @@ Acting as full-stack responsible for some frontend applications CMS, many backen
 ### Projects
 
 #### Huktup 💳 - Service Provider and Admin Web Interface
-![Huktup|right|](https://i.imgur.com/YonAEuC.png)
+<img src="https://i.imgur.com/YonAEuC.png" align="right"/>
 Ago 2020 - Apr 2021
 
 A platform for multiple service providers to sell products or services with offers through a booking system.
@@ -72,7 +72,7 @@ It has integrated authentication to Firebase, an onboard process for new users.
 
 
 #### Toot 📲🚘 Market Intelligence Platform
-[![Toot|right](https://i.imgur.com/CYoh05w.png)](https://toot.co/)
+[<img src="https://i.imgur.com/CYoh05w.png" align="right"/>](https://toot.co/)
 
 Mar 2020 - Mar 2021
 
@@ -96,7 +96,8 @@ May 2019 – May 2019
 - So when started all project, I decided to rebuild all backend core responsible for all calculations from the journey. It was necessary to create one job to each activity of business like request google Api, Overpass Api, and calculations of scores to speeding, acceleration, braking, harsh cornering, distraction. Besides that, every business task like Api and jobs won a test unit and integration, that run on all deploys over customized pipelines.
 
 #### Fanoty ⚽
-[![Fanoty|right](https://i.imgur.com/bhLU54e.png)](http://fanoty.com/)
+[<img src="https://i.imgur.com/bhLU54e.png" align="right"/>](http://fanoty.com/)
+
 
 May 2019 – May 2019
 App for fans of the main football teams of Premier and Championship.
@@ -108,7 +109,8 @@ It was an old Application made for iOS, using an API developed in Laravel 5.0, I
 
 
 #### Grappl 👺
-[![Grappl|right](https://i.imgur.com/OL1WxiL.png)](https://grappl.co/)
+[<img src="https://i.imgur.com/OL1WxiL.png" align="right"/>](https://grappl.co/)
+
 
 May 2019 – May 2019
 The platform to lovers of wrestling
@@ -122,7 +124,8 @@ I worked in a recreation of the Home API, implemented new queries and new sessio
 
 ---
 ## Software Development Engineer 👩‍💻 at Alfasoft.pt
-[![Alfasoft|right](https://i.imgur.com/x5X41QP.png)](https://www.alfasoft.pt/)
+[<img src="https://i.imgur.com/x5X41QP.png" align="right"/>](https://www.alfasoft.pt/)
+
 
 Lisboa e Região, Portugal - since 03/2018
 
@@ -133,21 +136,24 @@ Lisboa e Região, Portugal - since 03/2018
 
 ### Projects
 #### MyLabel 👩💆 
-[![MyLabel|right](https://i.imgur.com/ncfUx3c.png)](https://www.mylabel.pt/)
+[<img src="https://i.imgur.com/ncfUx3c.png" align="right"/>](https://www.mylabel.pt/)
+
 
 Aug 2018 – Oct 2018
 - Corporate website of the cosmetics company, with friendly management in Wordpress, using a complete theme and plugin customization. 
 - Available at [mylabel.pt](https://www.mylabel.pt/) developed  by myself at company Alfasoft.pt
 
 #### Perguntas da especialidade 👨‍🎓👨‍⚕️
-[![Perguntas da especialidade|right](https://i.imgur.com/i9Tp3hv.png)](https://perguntasdaespecialidade.pt/)
+[<img src="https://i.imgur.com/i9Tp3hv.png" align="right"/>](https://perguntasdaespecialidade.pt/)
+
 
 Jun 2018 – Jul 2018
 - Preparation platform to examinations for medical specialties with payment through EuPago.pt.
 - Available at [perguntasdaespecialidade.pt](https://perguntasdaespecialidade.pt/) developed  by myself at company Alfasoft.pt
 
 #### Sisporta 🏬
-[![Sisporta|right](https://i.imgur.com/LveJ57f.png)](https://www.sisporta.com/)
+[<img src="https://i.imgur.com/LveJ57f.png" align="right"/>](https://www.sisporta.com/)
+
 
 Mar 2018 – May 2018
 - System to calculate and generate budget of gates with an intelligent layer of data update coming from the legacy database
@@ -158,14 +164,15 @@ Mar 2018 – May 2018
 
 ---
 ## Senior Software Developer 👩‍💻 at Plugae
-[![Plugae|right](https://i.imgur.com/V1DSHwZ.png)](https://plugae.com.br/)
+[<img src="https://i.imgur.com/V1DSHwZ.png" align="right"/>](https://plugae.com.br/)
+
 
 Barueri, São Paulo, Brazil -  11/2017 - 02/2018
 I made a challenging integration of multiple marketplaces for a single application and after that an integration with ERP Bling using webhooks and queue jobs for all activities
 
 ### Projects
 #### Spider  🛒
-![Spider|right](https://i.imgur.com/rJ8gWvL.png)
+<img src="https://i.imgur.com/rJ8gWvL.png" align="right"/>
 
 Nov 2017 – Feb 2018
 - Large integration of orders from marketplaces hubs Skyhub, Pluggto, B2W to a single platform called Spider with database Mongo.db, also integration between Spider to ERP Bling using webhooks, all integrations needed use job queue, so as not to overload server processing
@@ -174,7 +181,8 @@ Nov 2017 – Feb 2018
 
 ---
 ## Software Developer 👩‍💻 at Pilha Digital
-[![Pilha Digital|right](https://i.imgur.com/Tlq2rgi.png)](https://www.facebook.com/pilhadigital/)
+[<img src="https://i.imgur.com/Tlq2rgi.png" align="right"/>](https://www.facebook.com/pilhadigital/)
+
 
 Sorocaba, São Paulo, Brazil - 02/2017 - 09/2017
 I had created a platform to register websites and send a push notification, structured modularly, with a payment system. 
@@ -198,14 +206,15 @@ Challenge to rebuild an immense PHP OOP application with no framework for managi
 
 ---
 ## Coach 👨‍🏫 at Promoedu
-![Promoedu|right](https://i.imgur.com/UlWdkm3.png)
+<img src="https://i.imgur.com/UlWdkm3.png" align="right"/>
+
 Sorocaba, São Paulo, Brazil - 09/2015 - 03/2016
 I taught small leadership training for groups
 > Develop competencies to gain leadership and respect, build trust, empathy and rapport, motivate teams, recognize and use strengths, delegate effectively, work on improvement points, and evaluate results. This process adds value by bringing tools and methods that can be used in many different areas of life.
 
 ---
 ## Web designer senior 👨‍🎨 at EDITORA FTD S/A
-[![FTD|right](https://i.imgur.com/IOpSTyj.png)](https://ftd.com.br/)
+[<img src="https://i.imgur.com/IOpSTyj.png" align="right"/>](https://ftd.com.br/)
 
 
 São Paulo, Brazil
@@ -229,7 +238,8 @@ Internal system built to be used in the 24 branches of the company spread throug
 ### Standalone projects
 
 #### Startup Center 👨🏽‍💼
-[![Startup Center|right](https://i.imgur.com/x9eiDdv.png)](https://www.facebook.com/startupcenter.com.br)
+[<img src="https://i.imgur.com/x9eiDdv.png" align="right"/>](https://www.facebook.com/startupcenter.com.br)
+
 
 Feb 2017 – Sep 2017
 - Platform to help Startups grow by offering a range of useful tools
@@ -258,3 +268,4 @@ It is an application to search for a safe meal across the UK, using information 
 - an API to query, create, modify and delete this data
 
 [Source Code](https://github.com/lfrichter/safelunch)
+
