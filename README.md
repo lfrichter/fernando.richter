@@ -29,7 +29,7 @@ Analysis, design refactoring and performance improvement of projects,
 Updating the platform and versions of PHP and Laravel applications,
 Test case application and automated tests with Dusk (using Selenium and CrossBrowserTesting)
 
-
+### Projects
 #### Shosales 🏠
 [<img src="https://i.imgur.com/Rtm6ETy.png" align="right"/>](https://shosales.co.uk/)
 
