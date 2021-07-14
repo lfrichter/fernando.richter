@@ -20,7 +20,7 @@ I feel confident to plan, estimate, and develop projects, I consider myself a go
 
 
 ## Full-Stack Developer at Full Comms
-[![FullComms|right](https://i.imgur.com/KMoH8Zf.png)](https://fullcomms.co.uk/)
+[<img src="https://i.imgur.com/KMoH8Zf.png" align="right"/>](https://fullcomms.co.uk/)
 Apr 2021 - currently
 
 ### Description
@@ -31,7 +31,7 @@ Test case application and automated tests with Dusk (using Selenium and CrossBro
 
 
 #### Shosales 🏠
-[![Southern|right](https://i.imgur.com/Rtm6ETy.png)](https://shosales.co.uk/)
+[<img src="https://i.imgur.com/Rtm6ETy.png" align="right"/>](https://shosales.co.uk/)
 
 **Project URL**
 https://shosales.co.uk/
@@ -48,7 +48,8 @@ https://shosales.co.uk/
 
 
 ## Application and API developer 👩‍💻 at Apposing
-[![Apposing|right](https://i.imgur.com/1hRSOrO.png)](https://apposing.co.uk/)
+[<img src="https://i.imgur.com/1hRSOrO.png" align="right"/>](https://apposing.co.uk/)
+
 Liverpool, UK - since 03/2019
 
 
