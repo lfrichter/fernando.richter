@@ -257,6 +257,8 @@ Sep 2017 – Jan 2018
 
 ---
 ### Open source projects
+<img src="https://i.imgur.com/G4Onqkt.png" align="right"/>
+
 #### Omnivore Facade 🍹
 Facade to access the API of an E-commerce platform called Omnivore.  
 [Source code](https://github.com/lfrichter/omnivore)
