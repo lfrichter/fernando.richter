@@ -138,13 +138,6 @@ Lisboa e Região, Portugal - since 03/2018
 - Many web applications using Laravel, and creation of some themes and plugins in Wordpress
 
 ### Projects
-#### MyLabel 👩💆 
-[<img src="https://i.imgur.com/ncfUx3c.png" align="right"/>](https://www.mylabel.pt/)
-
-
-Aug 2018 – Oct 2018
-- Corporate website of the cosmetics company, with friendly management in Wordpress, using a complete theme and plugin customization. 
-- Available at [mylabel.pt](https://www.mylabel.pt/) developed  by myself at company Alfasoft.pt
 
 #### Perguntas da especialidade 👨‍🎓👨‍⚕️
 [<img src="https://i.imgur.com/i9Tp3hv.png" align="right"/>](https://perguntasdaespecialidade.pt/)
