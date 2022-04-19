@@ -9,11 +9,12 @@
 # Summary
 Developer with expertise in analysis, integrations, project management, agile methods, and DevOps.
 
-I have experience in companies from different branches and sizes, I have always worked with web development of applications and participated actively in all phases of the build product cycle, from requirements to deployment.
+I have experience in companies from different branches and sizes, I used to work with web development of applications. 
+I also participated actively in all phases of the build product cycle, from requirements to deployment.
 
 During development, I like to dedicate some time to the proper creation of all tests as well as CI/CD. Meanwhile, I looking to be up to date about new cutting edge solutions available on to development.
 
-I feel confident to plan, estimate, and develop projects, I consider myself a good communicator and ready to liaise and build firm networks with colleagues and other teams.
+I feel confident in the plan, estimating, and developing projects, also consider myself a good communicator and am ready to liaise and build firm networks with colleagues and other teams.
 
 
 
