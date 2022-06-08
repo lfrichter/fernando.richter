@@ -22,7 +22,7 @@ I feel confident in the plan, estimating, and developing projects, also consider
 # Experience
 
 ## Full-Stack Developer at Keaze
-[<img src="https://i.imgur.com/MDNOZl2.jpg" align="right"/>](https://keaze.com/)
+[<img src="https://i.imgur.com/g3l49wp.jpg?1" align="right"/>](https://keaze.com/)
 Sep 2021 - currently
 - Working on the projects related to K-Pro Software
 
