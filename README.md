@@ -21,6 +21,15 @@ I feel confident in the plan, estimating, and developing projects, also consider
 
 # Experience
 
+## Full-Stack Developer at Keaze
+[<img src="https://i.imgur.com/MDNOZl2.jpg" align="right"/>](https://keaze.com/)
+Sep 2021 - currently
+- Working on the projects related to K-Pro Software
+
+### Projects
+##### Kpro AfterSales 📂
+Kpro AfterSales was created to improve the entire after-sales part of the existing solution and to intermediate all processes for a tenant or buyer to rent or buy a house using features such as staircaising when it belongs to the Shared Ownership program. Offering checklist of actions, collection of articles, documents, and appliances.
+I was responsible for developing most of the API and also creating the automated test suite.
 
 
 ## Full-Stack Developer at Full Comms
